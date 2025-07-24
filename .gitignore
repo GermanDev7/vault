@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+.env
+dist/
+*.log
+npm-debug.log*
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# Testing
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
